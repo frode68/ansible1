@@ -2,4 +2,5 @@
 
 
 This is a somewhat functional GITrepo
-Dina
+Dina Roynestad
+Frode
