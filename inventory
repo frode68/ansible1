@@ -1,8 +1,0 @@
-[web_servers]
-usrv1
-
-[db_servers]
-usrv2
-
-[file_servers]
-usrv3
