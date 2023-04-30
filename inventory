@@ -1,4 +1,13 @@
+[all]
+usrv1
 asrv7
 asrv8
 asrv9
+
+[ubuntu_servers]
 usrv1
+
+[rhel_servers]
+asrv7
+asrv8
+asrv9
