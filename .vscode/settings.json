@@ -1,8 +1,0 @@
-{
-    "yaml.schemas": {
-        "https://raw.githubusercontent.com/ansible/ansible-lint/main/src/ansiblelint/schemas/ansible.json#/$defs/playbook": [
-            "file:///home/frode/ansible1/apache_install2.yaml",
-            "file:///home/frode/ansible1/install_apache.yml"
-        ]
-    }
-}
