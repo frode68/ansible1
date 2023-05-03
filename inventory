@@ -1,11 +1,17 @@
 [all]
 usrv1
+usrv2
 asrv7
 asrv8
 asrv9
 
+[workstations]
+#uws1
+uws2
+
 [ubuntu_servers]
 usrv1
+usrv2
 
 [rhel_servers]
 asrv7

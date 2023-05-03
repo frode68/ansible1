@@ -1,0 +1,11 @@
+---
+
+- hosts: workstations
+  become: true
+  tasks:
+    - name: uninstall div (Ubuntu)
+      tags: ubuntuws,tmux-uninstall
+      apt:
+        name: tmux
+        state:  latest
+      when: ansible_distribution == "Ubuntu"
