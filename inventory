@@ -7,7 +7,8 @@ asrv9
 
 [workstations]
 #uws1
-uws2
+#uws2
+fed
 
 [ubuntu_servers]
 usrv1
